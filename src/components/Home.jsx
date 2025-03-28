@@ -11,7 +11,7 @@ function Home() {
             </span>
           </h1>
           <h3 className="animate-on-scroll animate__fadeInDown">
-            <span>Software engineer</span>based in Pakistan
+            <span>Software engineer </span> based in Pakistan
           </h3>
           <p className="animate-on-scroll animate__fadeInDown">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores
