@@ -373,6 +373,17 @@ footer{
       font-size: 1em;
   }
 }
+.social-icons a {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Keep original icon color */
+  background: linear-gradient(to right, #6cff52,#3ec5ff);
+  background-clip: text;
+  color: transparent;
+}
+
+.social-icons a:hover {
+  color: inherit; /* Prevent color change on hover */
+}
 @media(max-width:768px){
   #home h1{
       font-size: 2.5em;
