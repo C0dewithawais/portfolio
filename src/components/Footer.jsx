@@ -35,7 +35,7 @@ function Footer() {
           <a href="https://www.facebook.com/share/18LVqxpT31/" target="_blank" rel="noopener noreferrer">
             <i class="bx bxl-facebook-circle"></i>
           </a>
-          <a href="https://instagram.com/https://www.instagram.com/c0dewithawais?igsh=emk0bW1vNmpsdnAw" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/c0dewithawais?igsh=emk0bW1vNmpsdnAw" target="_blank" rel="noopener noreferrer">
             <i class="bx bxl-instagram-alt"></i>
           </a>
           <a href="https://www.linkedin.com/in/awais-ali-ads-expert/" target="_blank" rel="noopener noreferrer">
