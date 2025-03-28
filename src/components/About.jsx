@@ -37,7 +37,7 @@ function About() {
           <ul>
             <li>
               <span>
-                <i class="bx bx-chevron-right"></i>React
+                <i class="bx bx-chevron-right"></i>React JS
               </span>
             </li>
             <li>
@@ -47,7 +47,7 @@ function About() {
             </li>
             <li>
               <span>
-                <i class="bx bx-chevron-right"></i>Mongodb
+                <i class="bx bx-chevron-right"></i>Mongo DB
               </span>
             </li>
           </ul>
