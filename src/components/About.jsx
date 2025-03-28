@@ -7,10 +7,10 @@ function About() {
             <span>About Me</span>
           </h1>
           <p class="animate-on-scroll animate__rollIn">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita
-            sapiente quis optio fugit exercitationem illo voluptatem beatae nisi
-            laborum, perspiciatis accusamus qui odit molestias voluptatibus aut
-            et id veritatis distinctio!
+            I am a passionate software engineer dedicated to crafting clean,
+            efficient, and user-friendly applications. With expertise in both
+            front-end and back-end technologies, I specialize in building
+            scalable solutions that blend innovation with performance.
           </p>
         </div>
         <h2 class="animate-on-scroll animate__rollIn">
